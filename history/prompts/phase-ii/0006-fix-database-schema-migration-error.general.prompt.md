@@ -21,12 +21,12 @@ links:
   ADR: null
   PR: null
 files_yaml:
-  - D:\Afaq Coding\Q4\Hackathon II\Evolution of Todo\Phase II\todo-full-stack-web-application\backend\src\core\database.py
+  - D:\Aiza Coding\Q4\Hackathon II\Evolution of Todo\Phase II\todo-full-stack-web-application\backend\src\core\database.py
 tests_yaml: []
 prompt_text: |
-  PS D:\\Afaq Coding\\Q4\\Hackathon II\\Evolution of Todo\\Phase II\\todo-full-stack-web-application\\backend> uvicorn src.main:app --reload
+  PS D:\\Aiza Coding\\Q4\\Hackathon II\\Evolution of Todo\\Phase II\\todo-full-stack-web-application\\backend> uvicorn src.main:app --reload
 
-  INFO:     Will watch for changes in these directories: \['D:\\\\Afaq Coding\\\\Q4\\\\Hackathon II\\\\Evolution of Todo\\\\Phase II\\\\todo-full-stack-web-application\\\\backend']
+  INFO:     Will watch for changes in these directories: ['D:\\\\Aiza Coding\\\\Q4\\\\Hackathon II\\\\Evolution of Todo\\\\Phase II\\\\todo-full-stack-web-application\\\\backend']
 
   INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 

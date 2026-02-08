@@ -21,9 +21,9 @@ links:
   ADR: null
   PR: null
 files_yaml:
-  - D:\Afaq Coding\Q4\Hackathon II\Evolution of Todo\Phase II\todo-full-stack-web-application\frontend\app\contexts\auth-context.tsx
-  - D:\Afaq Coding\Q4\Hackathon II\Evolution of Todo\Phase II\todo-full-stack-web-application\frontend\app\dashboard\page.tsx
-  - D:\Afaq Coding\Q4\Hackathon II\Evolution of Todo\Phase II\todo-full-stack-web-application\backend\src\api\auth.py
+  - D:\Aiza Coding\Q4\Hackathon II\Evolution of Todo\Phase II\todo-full-stack-web-application\frontend\app\contexts\auth-context.tsx
+  - D:\Aiza Coding\Q4\Hackathon II\Evolution of Todo\Phase II\todo-full-stack-web-application\frontend\app\dashboard\page.tsx
+  - D:\Aiza Coding\Q4\Hackathon II\Evolution of Todo\Phase II\todo-full-stack-web-application\backend\src\api\auth.py
 tests_yaml: []
 prompt_text: |
   now your wrok to fix this issue when we login succesful to gowing to dashboard but we return to login page so fix it

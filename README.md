@@ -305,11 +305,11 @@ Please ensure your code adheres to the project's coding standards and includes a
 
 ## 👨‍💻 Maintainer / Author Information
 
-**Afaq Ul Islam**  
+**Aiza Ul Islam**  
 Frontend / Full-Stack Web Developer  
 AI, Web3 & Agentic AI Learner (GIAIC)
 
-This project is designed, developed, and maintained by **Afaq Ul Islam**.  
+This project is designed, developed, and maintained by **Aiza Ul Islam**.  
 All architectural decisions, implementation details, and maintenance responsibilities belong to the author unless explicitly stated otherwise.
 
 ---
@@ -339,7 +339,7 @@ See the `LICENSE` file in the repository root for full details.
 
 ## 🌐 Social / Contact
 
-**Afaq Ul Islam**
+**Aiza Ul Islam**
 
 - **GitHub**: https://github.com/afaqulislam  
 - **LinkedIn**: https://linkedin.com/in/afaqulislam
